@@ -14,12 +14,6 @@ E aí, sou Matheus e estou migrando pro mundo da TI! Já dei uns rolês pela Con
 ## My Github Statistics
 <p align="center">
 <a href="https://github.com/matheus-gobete">
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=matheus-gobete&show_icons=true&theme=algolia"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/matheus-gobete">
-  <img height="130cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheus-gobete&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=matheus-gobete&show_icons=true&theme=algolia"/><img height="130cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheus-gobete&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
