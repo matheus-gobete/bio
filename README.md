@@ -4,7 +4,7 @@ E aí, sou Matheus e estou migrando pro mundo da TI! Já dei uns rolês pela Con
 ## Redes Sociais
 [![INSTAGRAM](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/50px-Instagram_icon.png)](https://www.instagram.com/matheus.gobete/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![LINKEDIN](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/50px-LinkedIn_logo_initials.png)]([https://www.linkedin.com/in/matheus-gobete-corr%C3%AAa-8b0418306/)
+[![LINKEDIN](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/50px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/matheus-gobete-corr%C3%AAa-8b0418306/)
 
 ## Tecnologias e Ferramentas
 [![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/60px-HTML5_logo_and_wordmark.svg.png)](link_html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
